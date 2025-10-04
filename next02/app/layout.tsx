@@ -13,7 +13,7 @@ export default function RootLayout({
     <html lang="en">
       <body >
         {children}
-        <h1>first next app</h1>
+        
       </body>
     </html>
   );
