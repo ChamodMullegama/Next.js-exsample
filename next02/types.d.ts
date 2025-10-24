@@ -7,6 +7,12 @@ type Post = {
 
 
 
+
+
+
+
+
+    
     
 type User = {
     "id": number,
