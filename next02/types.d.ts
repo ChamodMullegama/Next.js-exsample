@@ -5,8 +5,6 @@ type Post = {
     "body": string,
 }
 
-
-    
 type User = {
     "id": number,
     "name": string,
